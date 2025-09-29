@@ -1,0 +1,22 @@
+# IDE ja editori failid
+.vscode/
+.idea/
+*.swp
+
+# Operatsioonisüsteemi failid
+.DS_Store
+Thumbs.db
+
+# Logifailid
+*.log
+
+# Node.js projektid
+node_modules/
+
+# Python projektid
+__pycache__/
+*.pyc
+
+# Build või dist kaustad
+dist/
+build/
