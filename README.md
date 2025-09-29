@@ -1,2 +1,1 @@
-# minu-esimene-repo
-Esimesed sammud...
+echo "# Tere, GitHub!" > README.md
